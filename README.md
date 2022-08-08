@@ -1,16 +1,16 @@
 # Uber Eats Backend
 
-###Installing
+### Installing
 ```bash
 $ npm install
 ```
 
-##Starting
-###Starting - production
+## Starting
+### Starting - production
 ```bash
 $ npm run start
 ```
-###Starting - development
+### Starting - development
 ```bash
 $ npm start:dev
 ```
